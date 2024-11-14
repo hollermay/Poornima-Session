@@ -1,5 +1,3 @@
 # Poornima-Session
 
-### Guide to Open Source by Preksha Mahajan
-
-- Open Source is Fun!! 
+### Learning new things about open source and version control (git)
